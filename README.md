@@ -5,4 +5,6 @@ Made for the Indian Mechanical Keyboard Community.
 
 ![pcb](pics/pcb.jpg)
 
+## Layouts Supported  
+
 ![layouts supported](pics/kle.jpg)
